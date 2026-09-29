@@ -1,4 +1,4 @@
-# ClaimScope
+# ClaimScope (Accepted at NeurIPS 2026 workshop on Mathematical Reasoning and AI)
 
 ClaimScope is a benchmark for auditing mathematical claims. Each task asks a
 model to determine whether a proposed identity is valid at its stated scope,
