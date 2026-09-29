@@ -1,0 +1,10 @@
+# ClaimScope GPU inference environment
+# Python 3.10, WSL2, CUDA 12.6
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.12.1+cu126
+transformers==5.16.1
+accelerate==1.14.0
+bitsandbytes==0.50.2
+huggingface_hub==1.29.0
+safetensors==0.8.0
+sentencepiece==0.2.2

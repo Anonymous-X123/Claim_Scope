@@ -1,0 +1,30 @@
+{
+  "base_pilot_private_sha256": "5f4a2006649be14773cf9060dac8930a65a2dedb7ca17600d9d5240d1309f6d6",
+  "base_pilot_public_sha256": "a522de6ca1b9190e10c13f93d7e0fd2a18abcc33164d65dc1ae01c643a5ad42e",
+  "base_pilot_task_count": 48,
+  "distribution": {
+    "affine_recurrence": {
+      "invalid": 12,
+      "valid": 12
+    },
+    "linear_algebra": {
+      "invalid": 12,
+      "valid": 12
+    },
+    "optimizer_transport": {
+      "invalid": 12,
+      "valid": 12
+    }
+  },
+  "generator": "claimscope.generate_extended",
+  "generator_version": "0.1.0",
+  "linear_algebra_surface_variants_per_spec": 3,
+  "linear_algebra_task_count": 24,
+  "linear_algebra_unique_specification_count": 8,
+  "private_sha256": "071fa625f6e12648d438e8a2afc65475c27f6c5224db848a24955bc0c681d121",
+  "public_sha256": "87bd5117f13a4335a950d858343ca02dc7d9390a765d2495772e7ef827ed13ec",
+  "seed": 20260902,
+  "split": "extended_v1",
+  "task_count": 72,
+  "task_id_sha256": "68b6c8e9d171bfc9eeede6991ecc036cf2622f35ae2dba5efc4ce4d7f797752e"
+}

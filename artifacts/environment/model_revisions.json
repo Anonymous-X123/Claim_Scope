@@ -1,0 +1,11 @@
+{
+  "Qwen/Qwen3-8B": {
+    "quantization": "nf4_4bit",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+    "role": "general_reasoning_primary",
+    "supported_thinking_modes": [
+      "on",
+      "off"
+    ]
+  }
+}

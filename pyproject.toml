@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "claimscope"
+version = "1.0.0"
+description = "Benchmark and exact validators for evidence-bearing mathematical claim audits"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+claimscope = "claimscope.benchmark_cli:main"
+claimscope-score = "claimscope.pilot_score:main"
+claimscope-run = "claimscope.local_runner:main"
+claimscope-analyze = "claimscope.analyze_controls:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

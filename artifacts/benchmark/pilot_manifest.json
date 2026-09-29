@@ -1,0 +1,22 @@
+{
+  "development_signatures_excluded": true,
+  "distribution": {
+    "affine_recurrence": {
+      "invalid": 12,
+      "valid": 12
+    },
+    "optimizer_transport": {
+      "invalid": 12,
+      "valid": 12
+    }
+  },
+  "generator": "claimscope.generate_benchmark",
+  "generator_version": "0.3.0",
+  "private_sha256": "5f4a2006649be14773cf9060dac8930a65a2dedb7ca17600d9d5240d1309f6d6",
+  "public_sha256": "a522de6ca1b9190e10c13f93d7e0fd2a18abcc33164d65dc1ae01c643a5ad42e",
+  "seed": 20260830,
+  "split": "pilot",
+  "task_count": 48,
+  "task_id_sha256": "8259c6209b9d84e9b0cdd1382769c16051a6b20927964847b4344d455831842b",
+  "tasks_per_family": 24
+}
